@@ -1,6 +1,6 @@
 # ConversordeMoneda
 
-Descripción
+
 El Conversor de Monedas es una aplicación Java que permite a los usuarios convertir entre diferentes monedas utilizando datos de tasas de cambio actualizadas desde una API. La aplicación ofrece una interfaz de línea de comandos donde los usuarios pueden seleccionar diferentes opciones de conversión de monedas.
 
 Funcionalidades
